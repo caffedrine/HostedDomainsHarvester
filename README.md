@@ -1,5 +1,5 @@
 # Harvest websites hosted on the same server/networkIP
-A C# Application used to get all hosted website on same IP/domainIP based on search engines.
+A C# Application used to get hosted websites on same IP/domainIP based on search engines.
 
 #### What for?
   1. Harvest some data about your neighbours when using free or cheap hosting. You may not weant to host your website along with other dirty websites.
