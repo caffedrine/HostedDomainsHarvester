@@ -17,7 +17,7 @@ namespace HostedDomains_Spoofer
     {
         ///datamarket.azure.com/account/keys
         private const string BING_API_KEY_NAME = "MyApp";
-        private const string BING_API_KEY_VALUE = "5/rll/RgJiFxxSut4sRYLim00MFUr3UITyMAh7JETng=";
+        private const string BING_API_KEY_VALUE = "key";
         private const int resultsNumber = 400; //// MAX 50 results per query
         
         
